@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this Dataset, please cite it as below."
+authors:
+- family-names: "Abuan"
+  given-names: "Alec Vince"
+  orcid: "https://orcid.org/0009-0007-5785-118X"
+
+- family-names: "Rahman"
+  given-names: "Masrur"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+
+- family-names: "Abuan"
+  given-names: "Alison"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+
+- family-names: "Lee"
+  given-names: "Sue Han"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+
+- family-names: "Then"
+  given-names: "Patrick"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+
+title: "Malaysian Sign Language Medical Dataset"
+version: 1.0.0
+
+date-released: 2023-07-30 
+url: "https://github.com/Arekku21/MSL-Medical"
