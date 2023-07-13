@@ -15,11 +15,7 @@ authors:
 
 - family-names: "Lee"
   given-names: "Sue Han"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-
-- family-names: "Then"
-  given-names: "Patrick"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0000-0003-1767-9307"
 
 title: "Malaysian Sign Language Medical Dataset"
 version: 1.0.0
